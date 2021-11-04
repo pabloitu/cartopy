@@ -72,7 +72,7 @@ Documentation can be found at <https://scitools.org.uk/cartopy/docs/latest/>.
 
 ## Get in touch
 
-- Ask usage questions on
+- Ask usage questions ontest
   [StackOverflow](https://stackoverflow.com/questions/tagged/cartopy).
 - For less well defined questions, ideas, general discussion or announcements
   of related projects use the
